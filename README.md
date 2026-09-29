@@ -2,46 +2,33 @@
 
 **AI Engineering · DevSecOps · Digital Products**
 
-I build practical AI systems, secure automation workflows, and evidence-driven digital products with a focus on reliability, security, and measurable outcomes.
+I build and validate practical AI-enabled products, secure engineering workflows, and low-overhead digital systems. My work emphasizes measurable outcomes, evidence-based iteration, automation, security, and maintainable delivery.
 
-## Current focus
+### Current focus
 
-- **Digital Insight AI** — AI tools, reviews, guides, and production automation.
-- **DevSecOps & AI Workstations** — lightweight defensive security, code gates, monitoring, and reliable engineering workflows.
-- **AI Workflow Audits** — evidence-first analysis of repetitive business workflows before automation.
-- **Digital Products** — building lean, testable products with clear validation and rollback paths.
+- Building **Digital Insight AI**, an Arabic-first platform for practical AI tool discovery, reviews, and guides.
+- Engineering **DevSecOps quality gates** for safer changes, production verification, and continuous monitoring.
+- Validating AI workflow-audit methods before commercial rollout.
+- Exploring practical automation and digital-product systems with transparent constraints and measurable results.
 
-## Featured work
+### Selected work
 
-### Digital Insight AI
-Production website and AI tools platform with GitHub Pages deployment, CI quality gates, HTTPS enforcement, and production smoke monitoring.
+- **[Digital Insight AI](https://github.com/imim2009im-a11y/digital-insight-ai)** — production-oriented AI tools and content platform deployed with GitHub Pages and automated quality checks.
+- **[AI Workflow Audit](https://github.com/imim2009im-a11y/digital-insight-ai-workflow-audit)** — evidence-first methodology for evaluating business workflow automation opportunities.
+- **[Command Pattern Simulator](https://github.com/imim2009im-a11y/IBRAHIM-ALBALAWI)** — interactive React + TypeScript simulator covering command history, undo/redo, macros, and rollback behavior.
 
-[Repository](https://github.com/imim2009im-a11y/digital-insight-ai) · [Live site](https://digitalinsightai.com/)
+### Engineering principles
 
-### AI Workflow Audit
-A public methodology for evaluating business workflows, automation opportunities, privacy constraints, and measurable pilots.
+`Evidence before claims` · `Security by default` · `Automate repeatable checks` · `Small reversible changes` · `Measure before scaling`
 
-[Repository](https://github.com/imim2009im-a11y/digital-insight-ai-workflow-audit)
+### Stack & interests
 
-### Command Pattern Simulator
-Interactive React + TypeScript project demonstrating command history, undo/redo, macros, rollback behavior, and state management.
+**AI systems · JavaScript/TypeScript · React · Python · Linux · GitHub Actions · DevSecOps · Web automation · Static architecture · Security monitoring**
 
-[Repository](https://github.com/imim2009im-a11y/IBRAHIM-ALBALAWI)
+### Live project
 
-## Engineering principles
+**Digital Insight AI:** https://digitalinsightai.com/
 
-- Evidence before claims.
-- Security and privacy by design.
-- Small, reversible changes over risky rewrites.
-- Automated verification before merge or deployment.
-- No secrets in source control.
-- Production changes must have measurable acceptance criteria and rollback paths.
+---
 
-## Stack
-
-`Git` · `GitHub Actions` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Python` · `Linux` · `DevSecOps` · `AI Automation`
-
-## Connect
-
-- Website: https://digitalinsightai.com/
-- GitHub: https://github.com/imim2009im-a11y
+Open to technically grounded collaboration around AI products, secure automation, developer tooling, and measurable workflow improvement.
